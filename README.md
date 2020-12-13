@@ -1,2 +1,2 @@
 # Jump_to_Django
-점프 투 장고
+[Study with this(Jump_to_Django](https://wikidocs.net/book/1)
